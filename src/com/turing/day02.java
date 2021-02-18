@@ -5,6 +5,6 @@ public class day02 {
         System.out.println("chenzhe");
         System.out.println("hi");
         System.out.println("ccc");
-        System.out.println("长沙图灵科技");
+        System.out.println("cs");
     }
 }
