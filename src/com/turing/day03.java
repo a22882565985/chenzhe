@@ -5,5 +5,6 @@ public class day03 {
         System.out.println("turing");
         System.out.println("7777");
         System.out.println("3333");
+        System.out.println("5555");
     }
 }
