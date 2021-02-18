@@ -4,7 +4,6 @@ public class day03 {
     public static void main(String[] args) {
         System.out.println("turing");
         System.out.println("7777");
-
-        System.out.println("4444");
+        System.out.println("3333");
     }
 }
